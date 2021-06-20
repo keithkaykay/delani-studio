@@ -72,3 +72,25 @@ html{
 .hide{
   display:none;
 }
+
+form #contact{
+  background: transparent;
+}
+
+input[type=text] {
+  background: transparent;
+  color: white;
+}
+textarea[type=text] {
+  background: transparent;
+  color: white;
+}
+
+.footer {
+  color: black;
+  justify-content: center;
+  text-align: center;
+  font-size: x-small;
+  font-family: 'Amaranth', sans-serif;
+}
+
