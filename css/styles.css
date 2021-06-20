@@ -41,3 +41,10 @@ html{
   font-family: 'Yantramanav', sans-serif;
   height: 50vh;
 }
+.row{
+  padding:2%;
+}
+.six{
+  color: black;
+  text-align: center;
+}
