@@ -48,3 +48,15 @@ html{
   color: black;
   text-align: center;
 }
+
+.col-md-3{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
