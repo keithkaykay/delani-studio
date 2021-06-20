@@ -1,6 +1,5 @@
 body {
   font-family: "Trirong", serif;
-  font-display: block;
 }
 html{
   scroll-behavior: smooth;
@@ -59,4 +58,13 @@ html{
   content: "";
   clear: both;
   display: table;
+}
+
+#contact{
+  background-image: url("../assets/backgrounds/c_image.jpg");
+  width: auto;
+  height:89vh;
+  background-size: cover;
+  color: aliceblue;
+  text-align: center;
 }
