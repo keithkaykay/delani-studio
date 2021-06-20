@@ -8,7 +8,7 @@ html{
 
 #one{
   background-image: url("../assets/backgrounds/h_img.jpg");
-  height:100vh;
+  height:89vh;
   background-size: cover;
   width: 100%;
   color: whitesmoke;
@@ -33,6 +33,11 @@ html{
 }
 
 .five{
-  text-align: center;
   background-image: url("backgrounds/s_image.jpg");
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-size: medium;
+  font-family: 'Yantramanav', sans-serif;
+  height: 50vh;
 }
