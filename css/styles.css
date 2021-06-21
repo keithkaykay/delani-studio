@@ -24,6 +24,10 @@ html{
   display: block;
 }
 
+#mouse{
+  animation: bounce 2s infinite;
+}
+
 .four{
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
