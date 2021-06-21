@@ -95,7 +95,7 @@ $(document).ready(function(){
   });
 });
 
-function submit(){
+function myFunction() {
   var name=document.getElementById("name").value;
   var email=document.getElementById("email").value;
   var message = document.getElementById("message").value;
@@ -103,6 +103,6 @@ function submit(){
       alert("Check if you have filled all forms")
   }
   else{
-  alert("Thank you + ' ' " + name + ' ' + "for contacting delani studio. We will get back to you shortly." );
+  alert("Thank you " + name + ' ' + "for contacting delani studio. We will get back to you shortly. Allow the pop up to continue" );
   }
   };
